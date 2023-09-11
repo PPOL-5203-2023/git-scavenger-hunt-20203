@@ -3,11 +3,14 @@
 Look for items using your basic knowledge of Git/Github. The provided repository holds all the information you'll need to answer the following questions:
 
 1. What is the title of the news story?
-2. What changes were made to the news story in commit (`3a2823824`)?
-3. What other Jane Austen novel data was added after Pride and Prejudice?
-4. How many dog pictures were initially added to the dog_pictures folder?
-5. What was the last change made on the "dogs" branch before it was merged with the "temp"?
-6. What is the tag name for the commit where the readme was changed?
+2. What changes were made to the news story in a later commit?
+3. Which book I am currently reading?
+4. Which year I read more books?
+5. Have you read any of the books I read in the past years? What is your favorite?
+6. Why there are no information about the books in the main branch? Which commit did that happen?
+7. How many branches are still active? What is their difference?
+8. Which dog picture did you find more cute?
+6. What is the tag name for the commit where the readme was changed to how you read now?
 
 Please get as far as you can in answering the questions. 
 
